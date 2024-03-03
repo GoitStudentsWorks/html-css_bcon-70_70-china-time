@@ -1,11 +1,11 @@
 {
-  "name": "70-china-time",
+  "name": "html-css_bcon-70_70-china-time",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/70-china-time/",
+    "build": "vite build --base=/html-css_bcon-70_70-china-time/",
     "preview": "vite preview"
   },
   "devDependencies": {
